@@ -1,3 +1,5 @@
+**Rough To-Do List**
+
 1. Research more codeing examples as starting points for this project.
    * Find what is useful in the initial code I found and scrap the rest.
 1. Create a diagram/map of how I want the program to work and what steps should be included in order.
