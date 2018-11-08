@@ -1,21 +1,31 @@
 **Rough To-Do List**
-
 1. Research more codeing examples as starting points for this project.
    * Find what is useful in the initial code I found and scrap the rest - it has a lot of issues.
    
    * https://github.com/CarleneL/Basic-Budgeting.git
    
+   * 11/08/2018 UPDATE - FIREFLY_III:
+        
+        * Found a VERY complex example of an application built by many people on Github. It incorporates contributions by around 63 people and I believe that this is ideally what I would like to make an application similar to this one. However, this one is too complicated for me at my current level of coding.
+        
+            *LINK: https://github.com/ksu-is/firefly-iii.git
+   
 1. Create a diagram/map of how I want the program to work and what steps should be included in order.
    * Need to incorporate a system for income taxes by state, social security, and other deductions from income on paystubs.
    * Needs to be as customizable as I can possibly make it.
    
+   * 11/08/2018 - Created a "Project Format" as seen below. Will probably add more detail as time passes.
+   
 1. Piece together parts of codes to create the program base I would like to begin with.
+
+1. Write some of my own custom code for whatever pieces of the project that I could not borrow from another example. This will probably be most of the code that is found within this project.
 
 1. Fine tune the code to do exactly what I mapped out in step two.
 
 1. IMPROVE IT. 
 
 
+___________________________________________________________________________________
 
 
 
