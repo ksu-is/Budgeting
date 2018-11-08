@@ -19,7 +19,7 @@
 
 
 
-**PROJECT MAPPING**
+**PROJECT FORMAT**
 
 1. Start the app with asking the user to input their base pay, hourly or salary?
 
