@@ -14,3 +14,39 @@
 1. Fine tune the code to do exactly what I mapped out in step two.
 
 1. IMPROVE IT. 
+
+
+
+
+
+**PROJECT MAPPING**
+
+1. Start the app with asking the user to input their base pay, hourly or salary?
+
+1. Ask their frequency of pay (weekly, biweekly, monthly, etc.)
+
+1. Go to main menu -----
+   1. Calculate next paycheck.
+      1. How many hours worked
+      1. Calculate pay before taxes.
+      1. Subtract taxes 
+        *11% federal
+        *6.2% SS
+        *1.45% medicare
+        *For now, only calculate Georgia tax rate for state taxes – 4%
+      1. Provide final number as a rough estimate
+      
+   1. Add budget values.
+      1. Provide categories to input numbers for.
+         *Food
+         *Bills
+         *Savings
+         *Entertainment
+         *Personal
+         *Other (allow input)
+      1. Calculate variance between income and budget
+      
+   1. Record expenses and revenues.
+      1. Allow user to record an expense based on their budget categories.
+      
+   1. Quit
