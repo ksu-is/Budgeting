@@ -9,6 +9,10 @@
         * Found a VERY complex example of an application built by many people on Github. It incorporates contributions by around 63 people and I believe that this is ideally what I would like to make an application similar to this one. However, this one is too complicated for me at my current level of coding.
         
             *LINK: https://github.com/ksu-is/firefly-iii.git
+          
+    * 11/13/2018 UPDATE - Another issue:
+    
+         * Found another example that's closer to what I want to do with this app, but I tried customizing it to what I wanted and it would not work. The code is saved in my budgeting.py file.
    
 1. Create a diagram/map of how I want the program to work and what steps should be included in order.
    * Need to incorporate a system for income taxes by state, social security, and other deductions from income on paystubs.
