@@ -14,11 +14,15 @@
     
          * Found another example that's closer to what I want to do with this app, but I tried customizing it to what I wanted and it would not work. The code is saved in my budgeting.py file.
    
-DONE 1. Create a diagram/map of how I want the program to work and what steps should be included in order.
+1. Create a diagram/map of how I want the program to work and what steps should be included in order.
    * Need to incorporate a system for income taxes by state, social security, and other deductions from income on paystubs.
    * Needs to be as customizable as I can possibly make it.
    
    * 11/08/2018 - Created a "Project Format" as seen below. Will probably add more detail as time passes.
+   
+   
+   DONE
+   
    
 1. Piece together parts of codes to create the program base I would like to begin with.
 
