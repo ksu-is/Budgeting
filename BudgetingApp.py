@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
 
-__author__ = 'ivaylo spasov'
+#Some code borrowed from Ivaylo Spasov.
 
 currentBudget = 0
 
@@ -58,4 +57,3 @@ def addRevenue(totalBudget):
     return totalBudget
 
 main()
-
