@@ -1,5 +1,5 @@
 **Rough To-Do List**
-1. Research more codeing examples as starting points for this project.
+1. Research more codeing examples as starting points for this project. (DONE)
    * Find what is useful in the initial code I found and scrap the rest - it has a lot of issues.
    
    * https://github.com/CarleneL/Basic-Budgeting.git
@@ -14,23 +14,20 @@
     
          * Found another example that's closer to what I want to do with this app, but I tried customizing it to what I wanted and it would not work. The code is saved in my budgeting.py file.
    
-1. Create a diagram/map of how I want the program to work and what steps should be included in order.
+1. Create a diagram/map of how I want the program to work and what steps should be included in order. (DONE)
    * Need to incorporate a system for income taxes by state, social security, and other deductions from income on paystubs.
    * Needs to be as customizable as I can possibly make it.
    
    * 11/08/2018 - Created a "Project Format" as seen below. Will probably add more detail as time passes.
    
    
-   DONE
-   
-   
-1. Piece together parts of codes to create the program base I would like to begin with.
+1. Piece together parts of codes to create the program base I would like to begin with. (DONE)
 
 
-1. Write some of my own custom code for whatever pieces of the project that I could not borrow from another example. This will probably be most of the code that is found within this project.
+1. Write some of my own custom code for whatever pieces of the project that I could not borrow from another example. This will probably be most of the code that is found within this project. (DONE)
 
 
-1. Fine tune the code to do exactly what I mapped out in step two.
+1. Fine tune the code to do exactly what I mapped out in step two. (DONE)
 
   
   I ended up scrapping the previous diagram of what I wanted my program to do for time's sake.
