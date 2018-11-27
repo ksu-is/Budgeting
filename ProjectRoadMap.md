@@ -26,20 +26,16 @@
    
 1. Piece together parts of codes to create the program base I would like to begin with.
 
-  DONE
 
 1. Write some of my own custom code for whatever pieces of the project that I could not borrow from another example. This will probably be most of the code that is found within this project.
 
-  DONE
 
 1. Fine tune the code to do exactly what I mapped out in step two.
 
-  DONE
   
   I ended up scrapping the previous diagram of what I wanted my program to do for time's sake.
   Made a much more simple application.
   
-1. IMPROVE IT. 
 
 
 ___________________________________________________________________________________
