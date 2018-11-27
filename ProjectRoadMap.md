@@ -68,3 +68,8 @@ ________________________________________________________________________________
       1. Allow user to record an expense based on their budget categories.
       
    1. Quit
+
+
+** UPDATE ON 11/26/2018 **
+
+This roadmap is slightly too complex for my level of experience with Python. :( I have privately been writing and rewriting, testing, and getting frutstrated with the roadmap so I have concluded that I am wanting to be a bit more simple in the program functions.
