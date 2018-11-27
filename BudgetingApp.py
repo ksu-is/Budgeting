@@ -5,30 +5,32 @@ __author__ = 'ivaylo spasov'
 currentBudget = 0
 
 def main():
+    print('Welcome to the Personal Budget Program')
+    print("Please be sure to enter your revenue first!")
     endProgram = 'no'
     totalBudget = currentBudget
     while endProgram == 'no':
-        print('Welcome to the Personal Budget Program')
+        print()
         print('Menu Selections: ')
-        print('1-Add an Expense: ')
-        print('2-Add Revenue: ')
-        print('3-Check Budget Balance: ')
-        print('4-Save progress')
-        print('5-Exit without saving')
-
-        choice = int(input('enter your selection: '))
+        print('1 - Add your Revenue: ')
+        print('2 - Add Expenses: ')
+        print('3 - Check Budget Balance: ')
+        print('4 - Exit without saving!')
+        print()
+        choice = int(input('Please enter your selection: '))
         if choice == 1:
-            totalBudget = addExpense(totalBudget)
-        elif choice == 2:
+            print()
             totalBudget = addRevenue(totalBudget)
+        elif choice == 2:
+            print()
+            totalBudget = addExpense(totalBudget)
         elif choice == 3:
+            print()
             print('Your balance is {0}'.format(totalBudget))
         elif choice == 4:
-            saveBudget(totalBudget)
-            print('Thanks for saving your progress')
-        elif choice == 5:
+            print()
             endProgram = 'yes'
-            print('Thank you for using "Small budget" program, Goodbye')
+            print('Thank you for using "Small budget" program, Goodbye!')
         else:
             print('Invalid selection, please try again')
 
@@ -48,21 +50,11 @@ def addExpense(totalBudget):
 
 
 def addRevenue(totalBudget):
-    revenue = float(input('Enter the number of hours worked: '))
-    hourly = float(input('Enter your hourly pay:')
-    print('Your total revenue will be' + revenue*hourly)
-    fed_taxes = total_rev*.11%
-    ss_taxes = total_rev*.062%
-    m_taxes = total_rev*.0145%
-    state_taxes = total_rev*.04
-    total_tax = fed_taxes + ss_taxes + m_taxes + state_taxes
-    total_pay = total_rev - total_tax
-    print('Your total net pay is' + total_pay)
-
-
-def saveBudget(totalBudget):
-    with open(path, 'w') as f:
-        f.write(str(totalBudget))
-    f.close()
+    revenue = float(input('Enter new monthly income: $'))
+    totalBudget = totalBudget + revenue
+    print()
+    print('Your new budget is: ${0}'.format(totalBudget))
+    print()
+    return totalBudget
 
 main()
