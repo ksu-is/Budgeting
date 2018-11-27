@@ -5,8 +5,8 @@ __author__ = 'ivaylo spasov'
 currentBudget = 0
 
 def main():
-    print('Welcome to the Personal Budget Program')
-    print("Please be sure to enter your revenue first!")
+    print('Hello and welcome to your budget calculator!')
+    print("Please be sure to enter your revenue first.")
     endProgram = 'no'
     totalBudget = currentBudget
     while endProgram == 'no':
